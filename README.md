@@ -1,1 +1,3 @@
-# ALGORITHMA_PEMROGRAMAN_2
+# Nama : Arvel Mahsa Athallah Firdaus
+# NIM  : 2311102188
+# Kelas : IF-11-01
